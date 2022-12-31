@@ -1,2 +1,2 @@
-const greeting = "Git is awsome!";
-console.log(greeting);
+const input = prompt("enter something");
+console.log(input);
